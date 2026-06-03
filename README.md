@@ -55,11 +55,6 @@ Shopify REST API
 - 0 manual steps — fully automated daily refresh
 - Dashboard available every morning by 3AM WAT
 
-## Setup
-1. Clone this repo
-2. Import notebooks into Microsoft Fabric workspace
-3. Attach LH_Landing lakehouse to all notebooks
-4. Create Data Pipeline and link notebooks in sequence
-5. Set schedule to daily 2AM
+
 6. Set semantic model refresh to daily 3AM
 7. Open Power BI dashboard
