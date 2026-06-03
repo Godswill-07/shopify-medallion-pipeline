@@ -18,6 +18,7 @@ Shopify REST API
 → gold_order_priority
 ↓
 [Power BI] Shopify Executive Dashboard
+![Shopify_Executive_Dashboard](Shopify_Executive_Dashboard.png)
 
 ## Tech Stack
 | Tool | Purpose |
@@ -54,6 +55,7 @@ Shopify REST API
 - 3 Gold tables powering live dashboard
 - 0 manual steps — fully automated daily refresh
 - Dashboard available every morning by 3AM WAT
+![Scheduled_Refresh](schematic_model_schedule_refresh.png)
 
 
 6. Set semantic model refresh to daily 3AM
