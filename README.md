@@ -42,6 +42,7 @@ Shopify REST API
 - Runs daily at 2:00 AM WAT
 - Failure alerting via email
 - Incremental loading on Bronze layer
+![Pipeline_Schedule_Refresh](pipeline_schedule_refresh.jpeg)
 
 ## Power BI Dashboard
 - KPI Cards: Total Revenue, Total Orders, Total Profit
